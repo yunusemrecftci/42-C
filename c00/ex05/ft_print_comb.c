@@ -33,3 +33,4 @@ void ft_print_comb(void)
 int main(){
     ft_print_comb();
 }
+//düzenleme gerekli diziye çevir daha kısa sondaki virgül daha kolay kalkar
